@@ -1,0 +1,37 @@
+name: webviewmahayan
+description: webviewmahayan
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version : 1.0.3+14
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  webview_flutter: ^2.0.12
+  convex_bottom_bar: ^3.0.0
+  radio_player: ^0.2.4
+  flutter_launcher_icons: ^0.9.1
+  firebase_cloud_messaging: ^4.0.4+1
+  new_version: ^0.2.2
+  package_info_plus_web: ^1.0.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  
+flutter:
+  uses-material-design: true
+  assets: 
+    - assets/
+ 

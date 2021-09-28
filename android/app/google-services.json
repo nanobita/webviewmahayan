@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334980318741",
+    "project_id": "bbbb-fcc57",
+    "storage_bucket": "bbbb-fcc57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334980318741:android:7e39ec0f434d5eea7db01c",
+        "android_client_info": {
+          "package_name": "com.mahayan.radiomahayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334980318741-9hqre0kt9emdoul8aci0ogcvargrb9pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyL5IlZwpuoCjfW8T6gQqPrgRMryzjLXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334980318741-9hqre0kt9emdoul8aci0ogcvargrb9pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
