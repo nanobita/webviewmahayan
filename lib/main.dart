@@ -29,7 +29,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int selectedPage = 2;
+  int selectedPage = 3;
   @override
   void initState() {
     super.initState();
@@ -105,7 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
               title: 'ติดต่อทีมงาน',
             ),
           ],
-          initialActiveIndex: 2,
+          initialActiveIndex: 3,
           onTap: (int i) {
             setState(() {
               selectedPage = i;
